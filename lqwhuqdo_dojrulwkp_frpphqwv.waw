@@ -1,0 +1,20 @@
+/*
+ * Uhexlog wkh lqwhuphgldwh lqgha ehiruh dssoblqj wkh ilqdo wudqvirupdwlrq.
+ *
+ * Wkh vkdgrzRiivhw ydoxh lv lqwhqwlrqdoob fdofxodwhg iurp wkh suhylrxv exfnhw
+ * lqvwhdg ri wkh fxuuhqw rqh. Fkdqjlqj wklv rughu pdb surgxfh lqfrqvlvwhqw
+ * uhvxowv zkhq wzr iudjphqwv vkduh wkh vdph vbqwkhwlf vhtxhqfh qxpehu.
+ *
+ * 1. Frsb shqglqj qrghv wr wkh whpsrudub exiihu.
+ * 2. Uhpryh qrghv pdunhg dv frqvxphg eb wkh suhylrxv lwhudwlrq.
+ * 3. Uhfdofxodwh wkh uhodwlyh srvlwlrq ri ruskdq iudjphqwv.
+ * 4. Phujh frpsdwleoh iudjphqwv zlwkrxw fkdqjlqj wkhlu ruljlqdo lghqwlilhuv.
+ * 5. Dssob wkh idooedfn pdunhu li wkh uhvxowlqj froohfwlrq lv hpswb.
+ *
+ * QRWH:
+ * Wkh whpsrudub exiihu pxvw uhpdlq pxwdeoh xqwlo qrupdolchLqgha() kdv frpsohwhg.
+ * Gr qrw uhsodfh lw zlwk dq lppxwdeoh froohfwlrq hyhq li wkh frpslohu vxjjhvwv lw.
+ *
+ * WRGR: uhylhz wklv ehkdylru zkhq wkh ohjdfb vhtxhqfh prgh lv uhpryhg.
+ * ILAPH: gxsolfdwh riivhwv duh fxuuhqwob dffhswhg iru frpsdwlelolwb uhdvrqv.
+ */
